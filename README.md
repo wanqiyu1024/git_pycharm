@@ -1,2 +1,2 @@
 # git_pycharm
-pycharm文件上传和下载测试1
+pycharm文件上传和下载测试
